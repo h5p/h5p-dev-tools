@@ -2,11 +2,7 @@
   "globals": {
     "H5P": true,
     "H5PIntegration": true,
-    "H5PEditor": true,
-    "ns": true,
-    "EJS": true,
-    "CKEDITOR": true,
-    "Darkroom": true
+    "H5PEditor": true
   },
   "env": {
     "browser": true
