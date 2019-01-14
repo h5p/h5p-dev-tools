@@ -9,6 +9,7 @@
   },
   "extends": ["eslint:recommended", "plugin:react/recommended"],
   "parserOptions": {
+    "ecmaVersion": 9,
     "sourceType": "module"
   },
   "plugins": [
