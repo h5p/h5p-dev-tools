@@ -28,6 +28,7 @@
     "indent": ["error", 2, {"SwitchCase": 1}],
     "brace-style": ["error", "stroustrup"],
     "keyword-spacing": ["error", {"after": true}],
+    "comma-spacing": ["error", {"before": false, "after": true}],
     "space-before-blocks": "error",
     "space-before-function-paren": ["error", {
       "anonymous": "always",
